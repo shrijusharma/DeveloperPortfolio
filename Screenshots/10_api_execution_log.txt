@@ -1,0 +1,5 @@
+Command: python API/fetch_api.py
+Exit status: 1
+API request failed: <urlopen error [Errno -3] Temporary failure in name resolution>
+
+Network access unavailable in this execution environment. This is not successful API evidence.

@@ -1,0 +1,1 @@
+Generated example outputs are in Screenshots/01_linux_system_profile.png. Run bash Linux/system_profile.sh on your own computer to record your own system profile.
